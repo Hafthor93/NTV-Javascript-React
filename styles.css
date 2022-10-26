@@ -1,0 +1,21 @@
+
+#container {
+    font-size: xx-large;
+    color: darkorange;
+    justify-content: start;
+    height: 80vh;
+    width: 80vw;
+    border: 1px solid black;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#btnBlack {
+    margin-top: 20px;
+}
+
+#btnBrown {
+    margin-top: 50px;
+}
+
+
